@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @karsunanda
-- 👀 I’m interested in ...(python)
-- 🌱 I’m currently learning ...c&c++
-- 💞️ I’m looking to collaborate on ...c&c++ & python 
+- 👋 Hi, I’m @Sunanda kar
+- 👀 I’m interested in ...(Data Analysis)
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ... Data Analysis 
 - 📫 How to reach me ...friend 
 
 <!---
